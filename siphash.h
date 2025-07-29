@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: MIT
+// SPDX-License-Identifier: MIT OR CC0-1.0
 //
 // This is a header-only C++20 implementation of SipHash based on the
 // reference implementation. To use, just copy this header file into
